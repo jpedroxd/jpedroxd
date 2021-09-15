@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/jpedroxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedroxd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroxd&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="233em" width="500px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroxd&layout=compact&langs_count=7&theme=cobalt"/>
 </div><br>
   
 <strong> Linguagens que pretendo adquirir conhecimento primeiramente: </strong>  
@@ -28,6 +28,6 @@
    <a href="https://twitter.com/jao_pedro__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:jpedro686@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  
+  ![Snake animation](https://github.com/jpedroxd/jpedroxd/blob/output/github-contribution-grid-snake.svg)
   
 </div>
