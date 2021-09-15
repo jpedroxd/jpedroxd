@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/jpedroxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedroxd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="233em" width="500px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroxd&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" "src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroxd&layout=compact&langs_count=7&theme=cobalt"/>
 </div><br>
   
 <strong> Linguagens que pretendo adquirir conhecimento primeiramente: </strong>  
@@ -15,7 +15,7 @@
   <img align="center" alt="html5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="css3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="css3" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
+  <img align="right" alt="hacker-pepe" src="https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
   
 </div>
 <hr>
