@@ -10,6 +10,8 @@
   <img height="180em" width="457px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroxd&layout=compact&langs_count=7&theme=cobalt"/>
     
 </div> <br>
+
+## 
   
 <strong> Linguagens que pretendo adquirir conhecimento primeiramente: </strong>  
   
@@ -23,7 +25,7 @@
   
 </div>
   
-<hr>
+##
   
 <strong>Como me Encontrar: </strong>
   
