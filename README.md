@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Pedro! ✌
 
 - 🌱 <strong> Estudando Desenvolvimento Web </strong>
-- ⚡ <strong> Fun fact: Ainda sem conhecimento nenhum </strong>😓
+- ⚡ <strong> Fun fact: Possuo quase nada de conhecimento </strong>😓
 
 <div>
   
